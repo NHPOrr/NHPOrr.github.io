@@ -1,8 +1,11 @@
-# News
+# Curriculum Vitae
 
-Stay updated with the latest developments in my research.
+Here is my academic and professional background.
 
-- **[Date]** - News item 1
-- **[Date]** - News item 2
+## Education
+- Degree - University, Year
+
+## Experience
+- Position - Organization, Year
 
 [Back to Home](index.md)
