@@ -11,7 +11,10 @@ To tackle the prevelant problem of counterfeit we are developing physical unclon
 [Back to Home](index.md)
 
 ## Measuring and controlling colloidal crystal structure
-I have developed tools for extracting detailed structure within crystals which have enabled intricate details of crystallisation mechanisms to be revealed. Read more here: 
+<div style="text-align: justify;">
+I have developed tools for extracting detailed structure within crystals which have enabled intricate details of crystallisation mechanisms to be revealed. The image below shows an example of crystal structure and grain bounadry analysis. Read more here:
+</div>
+![Chromostamp](/Images/GrainBoundary.jpg)
 
 Specifically, we showed that crystallisation can be controlled so that large monodomains of colloidal crystals can be produced under shear. We also uncovered the mechanism where hexagonal planes of particles form before the planes organise amoungst themselves. Read more about it here: 
 
