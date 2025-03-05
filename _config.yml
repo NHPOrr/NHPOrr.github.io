@@ -2,3 +2,4 @@
 theme: minimal
 title: Nicholas H. P. Orr
 description: Physical chemistry of soft matter
+include: ["styles.css"]
