@@ -3,6 +3,9 @@ title: Nicholas H P Orr
 description: Physics and chemistry of soft condensed matter
 ---
 
+![My Research Image](/Images/DramaticColloidalCrystal.jpg)
+
+
 # Welcome!
 
 Please find info bout me and my work here! 
