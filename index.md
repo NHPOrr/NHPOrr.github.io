@@ -9,9 +9,7 @@ description: Physics and chemistry of soft condensed matter
 
 # Welcome!
 
-Please find info bout me and my work here! 
-
-## Navigate
+Please find info about me and my work below! 
 - [Research](research.md)
 - [News](news.md)
 - [CV](cv.md)
