@@ -1,23 +1,24 @@
 ---
-title: My Research
-description: A website showcasing my research
+title: Nicholas H P Orr
+description: Physics and chemistry of soft condensed matter
 ---
 
 # Welcome to My Research Page
 
-This website presents my research, findings, and related resources. Feel free to explore!
+Please find info bout me and my work here! 
 
-## Sections
+## Navigate
 - [Research](research.md)
 - [News](news.md)
 - [CV](cv.md)
 
 ## About Me
-I am a researcher working on [your research topic]. My work focuses on [a brief description of your focus area].
+I am a researcher working on problems of soft condensed matter. I am interested in colloidal crystallisation, colloidal synthesis and fracture in polymer networks using both microscopy and scattering techniques. I am currently a postdoc at Département de Chimie in Ecole Normale Supérieure, Rue d'Ulm in Paris. Check out my instagram below for some beautiful symmetric things I have found in the wild. 
 
 ## Contact
-You can reach me at [your email or social media].
-
+Email: nicholas.orr at ens.psl.eu
+LinkedIn: linkedin.com/in/nicholas-orr-190854331
+Instagram: https://www.instagram.com/local_lattices/
 ---
 
 This website is hosted on [GitHub Pages](https://pages.github.com/).
