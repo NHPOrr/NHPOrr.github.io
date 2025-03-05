@@ -4,6 +4,9 @@ description: Physics and chemistry of soft condensed matter
 ---
 
 ![My Research Image](/Images/DramaticColloidalCrystal.jpg)
+<p align="center">
+  <img src="https://example.com/my-image.jpg" alt="My Research Image" width="300">
+</p>
 
 
 # Welcome!
