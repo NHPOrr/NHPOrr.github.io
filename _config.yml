@@ -1,5 +1,4 @@
-# theme: jekyll-theme-minimal
-# theme: minimal
-title: Nicholas H. P. Orr
-description: Physical chemistry of soft matter
+theme: minimal
+title: My Research
+description: A website showcasing my research
 include: ["styles.css"]
