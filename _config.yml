@@ -1,4 +1,4 @@
-theme: minimal
+# theme: minimal
 title: My Research
 description: A website showcasing my research
 include: ["styles.css"]
