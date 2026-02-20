@@ -19,13 +19,18 @@ I am a researcher working on problems of soft condensed matter who is (most) int
 
 Check out my instagram below for some beautiful symmetric things I have found in the wild. 
 
-## Contact
+## Contact and external links
 
 Email: nicholasorrchem at gmail.com
+
+Google Scholar: https://scholar.google.com/citations?user=J7uXIJIAAAAJ&hl=en
 
 LinkedIn: [linkedin.com/in/nicholas-orr-190854331](https://www.linkedin.com/in/dr-nicholas-orr-190854331/)
 
 Instagram: https://www.instagram.com/local_lattices/
+
+
+<img src="Images/GoldenBallBanner.jpg" alt="SiteBanner">
 
 ---
 
