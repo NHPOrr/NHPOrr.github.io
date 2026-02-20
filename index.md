@@ -12,7 +12,7 @@ description: Physics and chemistry of soft condensed matter
 Please find info about me and my work below! 
 - [Research](research.md)
 - [News](news.md)
-
+- [Code](Code.md)
 
 ## About Me
 I am a researcher working on problems of soft condensed matter who is (most) interested by colloids and polymer networks. My favourate techniques include microscopy and scattering. Currently, I am looking for positions anywhere in the world! 
@@ -29,8 +29,6 @@ LinkedIn: [linkedin.com/in/nicholas-orr-190854331](https://www.linkedin.com/in/d
 
 Instagram: https://www.instagram.com/local_lattices/
 
-
-<img src="Images/GoldenBallBanner.jpg" alt="SiteBanner">
 
 ---
 
