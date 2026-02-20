@@ -27,7 +27,7 @@ Read more about it here: https://pubs.aip.org/aip/jcp/article/157/22/224903/2842
 Currently, we are considering how hard sphere colloidal particles crystallise, an experimental snapshot of our experiments is shown below.
 </div>
 
-![HN](/HomogeneousNucleaton.tif) 
+<img src="HomogeneousNucleaton.tif" alt="Homogeneous Nucleation">
 
 [Back to Home](index.md)
 
@@ -38,7 +38,8 @@ We developed an optically and rheology couple dynamic light scattering apparatus
 Read more here: https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
 </div>
 
-![MM](/SoftMatterFrontCover.tif)
+
+<img src="SoftMatterFrontCover.tif" alt="PDMS Soft Matter">
 
 <div style="text-align: justify;">
 In continuation, we used simulations and this apparatus mentioned above to examine the difference in motion in single polymer networks and in interpenetrated (double) polymer networks. 
