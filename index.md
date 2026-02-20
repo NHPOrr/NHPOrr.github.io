@@ -3,7 +3,7 @@ title: Nicholas H P Orr
 description: Physics and chemistry of soft condensed matter
 ---
 
-<img src="GoldenBallBanner.tif" alt="SiteBanner">
+<img src="Images/GoldenBallBanner.jpg" alt="SiteBanner">
 
 
 
