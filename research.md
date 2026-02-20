@@ -10,17 +10,18 @@ To tackle the prevelant problem of counterfeit we are developing physical unclon
 
 [Back to Home](index.md)
 
-## Measuring and controlling colloidal crystal structure
+## Measuring and controlling crystal structure
 <div style="text-align: justify;">
-I have developed a tool called BLoSSOM for finding Boundaries, Location, Symmetry, Strutcure, Orientation and Misorientation from particle coordinates. It is particularly powerful to examine disorder within crystals. The image below shows an example of crystal structure and grain bounadry analysis within a colloidal bicrystal.
+I have developed a tool called BLoSSOM for finding Boundaries, Location, Symmetry, Strutcure, Orientation and Misorientation from particle coordinates. It is particularly powerful to examine disorder within crystals. The image below shows an example of crystal structure and grain bounadry analysis within a colloidal bicrystal. Read more about the work here: https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.123605
 
 ![GB](/Images/GrainBoundary.jpg)
 
-Specifically, we showed that crystallisation can be controlled so that large monodomains of colloidal crystals can be produced under shear. We also uncovered the mechanism where hexagonal planes of particles form before the planes organise amoungst themselves. Read more about it here: 
+In another project, we showed that crystallisation can be controlled so that large monodomains of colloidal crystals can be produced under shear. We also uncovered the mechanism where hexagonal planes of particles form before the planes organise amoungst themselves. Read more about it here: https://pubs.aip.org/aip/jcp/article/157/22/224903/2842704/Single-orientation-colloidal-crystals-from
 
-In another project we are illucidating the transient structures during homogeneous crystal nucleation in a supercooled colloidal fluid. 
+Currently, we are considering how hard sphere colloidal particles crystallise, an experimental snapshot of our experiments is shown below.
 
-## Project 2
-Description...
+![HN](/HomogeneousNucleation.tif)
+
+## Microscopic motion in polymer networks
 
 [Back to Home](index.md)
