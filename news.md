@@ -11,3 +11,5 @@ https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
 
 ## Talk at AERC Lyon 2025
 2025 / 04 / 17. Sharing our work about fracture in multiple polymer networks at the Annual European Rheology Conference in Lyon.
+
+<img src="Images/IMG-20250417-WA0003.jpg" alt="AERC" style="max-width:100%; height:auto;">
