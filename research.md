@@ -26,8 +26,9 @@ In another project, we showed that crystallisation can be controlled so that lar
 Read more about it here: <br><br>
 https://pubs.aip.org/aip/jcp/article/157/22/224903/2842704/Single-orientation-colloidal-crystals-from
 
-<p style="margin-bottom: 20px;">Text</p>
+<p style="margin-bottom: 20px;">
 Currently, we are considering how hard sphere colloidal particles crystallise, an experimental snapshot of our experiments is shown below.
+</p>
 </div>
 
 <img src="HomogeneousNucleaton.tif" alt="Homogeneous Nucleation">
