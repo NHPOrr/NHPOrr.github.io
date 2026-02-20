@@ -23,6 +23,8 @@ The methods implemented in BLoSSOM are described in:
 
 https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.123605
 
+If you use BLoSSOM in your research, please cite the associated publication.
+
 ---
 
-If you use BLoSSOM in your research, please cite the associated publication.
+[Back to Home](index.md)
