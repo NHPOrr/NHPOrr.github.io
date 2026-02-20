@@ -24,11 +24,10 @@ https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.123605
 In another project, we showed that crystallisation can be controlled so that large monodomains of colloidal crystals can be produced under shear. We also uncovered the mechanism where hexagonal planes of particles form before the planes organise amoungst themselves. 
 
 Read more about it here: <br><br>
-https://pubs.aip.org/aip/jcp/article/157/22/224903/2842704/Single-orientation-colloidal-crystals-from
+https://pubs.aip.org/aip/jcp/article/157/22/224903/2842704/Single-orientation-colloidal-crystals-from <br><br>
 
-<p style="margin-bottom: 20px;">
-Currently, we are considering how hard sphere colloidal particles crystallise, an experimental snapshot of our experiments is shown below.
-</p>
+Currently, we are considering how hard sphere colloidal particles crystallise, an experimental snapshot of our experiments is shown below. <br><br>
+
 </div>
 
 <img src="HomogeneousNucleaton.tif" alt="Homogeneous Nucleation">
@@ -40,14 +39,14 @@ Currently, we are considering how hard sphere colloidal particles crystallise, a
 We developed an optically and rheology couple dynamic light scattering apparatus to measure the microscopic motion during polymer network deformation. This work was featured on the front cover of the journal Soft Matter, the artwork for which I made and is shown below. It features an entangled PDMS polymer begin stretched and unravelled as we discuss in the paper. 
 
 Read more here: <br><br>
-https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
+https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d <br><br>
 </div>
 
 
 <img src="SoftMatterFrontCover.tif" alt="PDMS Soft Matter">
 
 <div style="text-align: justify;">
-In continuation, we used simulations and this apparatus mentioned above to examine the difference in motion in single polymer networks and in interpenetrated (double) polymer networks. 
+In continuation, we used simulations and this apparatus mentioned above to examine the difference in motion in single polymer networks and in interpenetrated (double) polymer networks. <br><br>
 </div>
 
 [Back to Home](index.md)
