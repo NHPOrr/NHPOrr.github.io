@@ -12,8 +12,7 @@ To tackle the prevelant problem of counterfeit we are developing physical unclon
 
 ## Measuring and controlling colloidal crystal structure
 <div style="text-align: justify;">
-I have developed tools for extracting detailed structure within crystals which have enabled intricate details of crystallisation mechanisms to be revealed. The image below shows an example of crystal structure and grain bounadry analysis. Read more here:
-</div>
+I have developed a tool called BLoSSOM for finding Boundaries, Location, Symmetry, Strutcure, Orientation and Misorientation from particle coordinates. It is particularly powerful to examine disorder within crystals. The image below shows an example of crystal structure and grain bounadry analysis within a colloidal bicrystal.
 
 ![GB](/Images/GrainBoundary.jpg)
 
