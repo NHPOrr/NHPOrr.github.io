@@ -2,7 +2,7 @@
 
 ## BLoSSOM
 
-I developed **BLoSSOM** (Boundary, Location, Symmetry, Structure, Orientation and Misorientation), a MATLAB-based analysis toolkit designed to characterise crystalline order directly from particle coordinate data.
+I developed **BLoSSOM** (Boundary, Location, Symmetry, Structure, Orientation and Misorientation), a MATLAB-based analysis toolkit designed to characterise crystalline order from particle coordinate data.
 
 The software identifies:
 - Grain boundaries  
