@@ -12,7 +12,7 @@ description: Physics and chemistry of soft condensed matter
 Please find info about me and my work below! 
 - [Research](research.md)
 - [News](news.md)
-- [CV](cv.md)
+
 
 ## About Me
 I am a researcher working on problems of soft condensed matter who is (most) interested by colloids and polymer networks. My favourate techniques include microscopy and scattering. Currently, I am looking for positions anywhere in the world! 
