@@ -15,7 +15,7 @@ Please find info about me and my work below!
 - [CV](cv.md)
 
 ## About Me
-I am a researcher working on problems of soft condensed matter. Specifically, I am (most) interested by colloidal crystallisation, colloidal synthesis and fracture in polymer networks using both microscopy and scattering techniques. Currently, I work as a postdoc at Département de Chimie in Ecole Normale Supérieure, Rue d'Ulm in Paris, France. 
+I am a researcher working on problems of soft condensed matter. I am (most) interested by colloids and polymer networks. My favourate techniques include microscopy and scattering. Currently, I am looking for positions anywhere in the world! 
 
 Check out my instagram below for some beautiful symmetric things I have found in the wild. 
 
@@ -23,7 +23,7 @@ Check out my instagram below for some beautiful symmetric things I have found in
 
 Email: nicholas.orr at ens.psl.eu
 
-LinkedIn: linkedin.com/in/nicholas-orr-190854331
+LinkedIn: [linkedin.com/in/nicholas-orr-190854331](https://www.linkedin.com/in/dr-nicholas-orr-190854331/)
 
 Instagram: https://www.instagram.com/local_lattices/
 
