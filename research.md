@@ -14,7 +14,9 @@ To tackle the prevelant problem of counterfeit we are developing physical unclon
 <div style="text-align: justify;">
 I have developed a tool called BLoSSOM for finding Boundaries, Location, Symmetry, Strutcure, Orientation and Misorientation from particle coordinates. It is particularly powerful to examine disorder within crystals. The image below shows an example of crystal structure and grain bounadry analysis within a colloidal bicrystal. 
   
-Read more about the work here: https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.123605
+Read more about the work here: 
+Text<br><br>
+https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.123605
 </div>
 
 <img src="Images/GrainBoundary.jpg" alt="Grain Boundary">
