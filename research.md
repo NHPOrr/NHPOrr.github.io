@@ -27,4 +27,7 @@ Currently, we are considering how hard sphere colloidal particles crystallise, a
 We developed an optically and rheology couple dynamic light scattering apparatus to measure the microscopic motion during polymer network deformation. This work was featured on the front cover of the journal Soft Matter, the artwork for which I made and is shown below. It features an entangled PDMS polymer begin stretched and unravelled as we discuss in the paper. Read more here: https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
 
 ![MM](/SoftMatterFrontCover.tif)
+
+In continuation, we used simulations and this apparatus mentioned above to examine the difference in motion in single polymer networks and in interpenetrated (double) polymer networks. 
+
 [Back to Home](index.md)
