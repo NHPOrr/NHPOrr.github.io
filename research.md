@@ -8,6 +8,8 @@ To tackle the prevelant problem of counterfeit we are developing physical unclon
 
 ![Chromostamp](/Images/ENS-Chimie-29112024_Z087641.jpg)
 
+[Back to Home](index.md)
+
 ## Measuring and controlling crystal structure
 <div style="text-align: justify;">
 I have developed a tool called BLoSSOM for finding Boundaries, Location, Symmetry, Strutcure, Orientation and Misorientation from particle coordinates. It is particularly powerful to examine disorder within crystals. The image below shows an example of crystal structure and grain bounadry analysis within a colloidal bicrystal. 
@@ -23,6 +25,8 @@ Read more about it here: https://pubs.aip.org/aip/jcp/article/157/22/224903/2842
 Currently, we are considering how hard sphere colloidal particles crystallise, an experimental snapshot of our experiments is shown below.
 
 ![HN](/HomogeneousNucleaton.tif) 
+
+[Back to Home](index.md)
 
 ## Microscopic motion in polymer networks
 
