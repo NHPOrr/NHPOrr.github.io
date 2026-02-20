@@ -59,7 +59,7 @@ https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
 <img src="Images/SoftMatterFrontCover.jpg" alt="PDMS Soft Matter" style="max-width:100%; height:auto;">
 
 <div style="text-align: justify; margin-bottom: 20px;">
-In continuation, we used simulations and this apparatus mentioned above to examine the difference in motion in single polymer networks and in interpenetrated (double) polymer networks.
+In addition, we used simulations and the aforementioned apparatus to examine the difference in microscopic motion during fracture of single polymer networks and of tougher interpenetrated (double) polymer networks.
 </div>
 
 [Back to Home](index.md)
