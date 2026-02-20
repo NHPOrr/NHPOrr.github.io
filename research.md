@@ -8,6 +8,7 @@ To tackle the prevelant problem of counterfeit we are developing physical unclon
 
 ![Chromostamp](/Images/ENS-Chimie-29112024_Z087641.jpg)
 
+
 [Back to Home](index.md)
 
 ## Measuring and controlling crystal structure
@@ -18,6 +19,8 @@ Read more about the work here: https://journals.aps.org/prmaterials/abstract/10.
 </div>
 
 ![GB](/Images/GrainBoundary.jpg)
+<img src="Images/GrainBoundary.jpg" alt="Grain Boundary">
+
 <div style="text-align: justify;">
 In another project, we showed that crystallisation can be controlled so that large monodomains of colloidal crystals can be produced under shear. We also uncovered the mechanism where hexagonal planes of particles form before the planes organise amoungst themselves. 
 
