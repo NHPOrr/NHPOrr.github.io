@@ -8,7 +8,7 @@ I am very pleased to share that my postdoctoral work has been published in PNAS 
 
 Find the article at PNAS here: https://lnkd.in/epXtgTSs
 
-<img src="Images/Total_Front_Cover_SM.jpg" alt="SoftMatter" style="max-width:100%; height:auto;">
+<img src="Images/Screenshot 2026-03-07 at 19.58.54.png" alt="SoftMatter" style="max-width:100%; height:auto;">
 
 ## Soft Matter Cover 
 
