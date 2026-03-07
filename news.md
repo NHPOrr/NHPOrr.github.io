@@ -2,9 +2,7 @@
 
 ## Publication in PNAS
 
-2026 / 03 / 04 
-
-I am very pleased to share that my postdoctoral work has been published in PNAS thanks to a years long collaboration between Laboratoire Charles Coulomb Montpellier, LIPhy Grenoble and ESPCI Paris. We used both experiments and simulations to examine the emergent toughness of multiple polymer networks at a microscopic level. Learn more about it at the link below! Thank you to everyone who made this work possible!
+2026 / 03 / 04. I am very pleased to share that my postdoctoral work has been published in PNAS thanks to a years long collaboration between Laboratoire Charles Coulomb Montpellier, LIPhy Grenoble and ESPCI Paris. We used both experiments and simulations to examine the emergent toughness of multiple polymer networks at a microscopic level. Learn more about it at the link below! Thank you to everyone who made this work possible!
 
 Find the article at PNAS here: https://lnkd.in/epXtgTSs
 
