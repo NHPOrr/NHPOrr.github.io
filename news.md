@@ -8,6 +8,8 @@ Find the article at PNAS here: https://lnkd.in/epXtgTSs
 
 <img src="Images/Screenshot 2026-03-07 at 19.58.54.png" alt="SoftMatter" style="max-width:100%; height:auto;">
 
+[Back to Home](index.md)
+
 ## Soft Matter Cover 
 
 2025 / 12 / 21. Our work on microscopic motion in polymer networks is featured on the front cover of Soft Matter. I designed the cover artwork! 
