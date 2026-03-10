@@ -15,7 +15,7 @@ Please find info about me and my work below!
 - [Code](Code.md)
 
 ## About Me
-I am a researcher working on problems of soft condensed matter who is (most) interested by colloids and polymer networks. My favourate techniques include microscopy and scattering. Currently, I am looking for positions anywhere in the world! 
+I am a researcher working on problems of soft condensed matter who is (most) interested by colloids and polymer networks. My favourate techniques include microscopy and scattering and writing bespoke analysis code. Currently, I am looking for positions anywhere in the world! 
 
 Check out my instagram below for some beautiful symmetric things I have found in the wild. 
 
