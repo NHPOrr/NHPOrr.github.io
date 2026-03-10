@@ -10,6 +10,15 @@ Find the article at PNAS here: https://lnkd.in/epXtgTSs
 
 [Back to Home](index.md)
 
+## Graduation from PSL Pépite
+
+2025 / 03 / 04. My postdoc project at ENS Paris was selected for an Etudient Entrepreneur degree as part of PSL Pépite. Recently, I graduated from this course! Thanks to this course, I deepened my understanding of the interaction between markets and emerging science. Thanks to everyone at PSL Pépite.
+
+<img src="Images/1773137104652.jpg" alt="1773137104652.jpg" style="max-width:100%; height:auto;">
+
+[Back to Home](index.md)
+
+
 ## Soft Matter Cover 
 
 2025 / 12 / 21. Our work on microscopic motion in polymer networks is featured on the front cover of Soft Matter. I designed the cover artwork! 
