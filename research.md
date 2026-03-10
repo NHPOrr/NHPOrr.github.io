@@ -1,5 +1,38 @@
 # Research
 
+
+## Microscopic motion in polymer networks
+
+<div style="text-align: justify; margin-bottom: 20px;">
+We developed an optically and rheology-coupled dynamic light scattering apparatus to measure the microscopic motion during polymer network deformation. This work was featured on the front cover of the journal Soft Matter, the artwork for which I made and is shown below. It features an entangled PDMS polymer being stretched and unravelled as we discuss in the paper.
+
+<br><br>
+Read more here:
+<br><br>
+https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
+</div>
+
+<img src="Images/SoftMatterFrontCover.jpg" alt="PDMS Soft Matter" style="max-width:100%; height:auto;">
+
+<div style="text-align: justify; margin-bottom: 20px;">
+In addition, we used simulations and the aforementioned apparatus to examine the difference in microscopic motion during fracture of single polymer networks and of tougher interpenetrated (double) polymer networks. Pictured below is a render of a three dimensional molecular dynamics simulation of a fracturing double network polymer. We used a combination of simulations and light scattering to explore the microscopic origin of toughness of multiple polymer networks. The left and right show one snapshot with one network removed on the right to reveal the underlying damaged second network. The kind of speckle images that we use to experimentally characterise microscopic motion are shown in the top right background.
+
+<br><br>
+Read more on PNAS here:
+<br><br>
+https://doi.org/10.1073/pnas.2530175123
+<br><br>
+or on Arxiv here: 
+<br><br>
+https://doi.org/10.48550/arXiv.2512.02963
+<br><br>
+</div>
+<img src="Images/PNAS_Cover_ORR_1Half.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
+
+[Back to Home](index.md)
+
+---
+
 ## Anti-counterfeit solutions from 2D colloidal crystals
 
 <div style="text-align: justify; margin-bottom: 20px;">
@@ -43,34 +76,4 @@ Currently, we are considering how hard sphere colloidal particles crystallise. A
 
 [Back to Home](index.md)
 
----
 
-## Microscopic motion in polymer networks
-
-<div style="text-align: justify; margin-bottom: 20px;">
-We developed an optically and rheology-coupled dynamic light scattering apparatus to measure the microscopic motion during polymer network deformation. This work was featured on the front cover of the journal Soft Matter, the artwork for which I made and is shown below. It features an entangled PDMS polymer being stretched and unravelled as we discuss in the paper.
-
-<br><br>
-Read more here:
-<br><br>
-https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
-</div>
-
-<img src="Images/SoftMatterFrontCover.jpg" alt="PDMS Soft Matter" style="max-width:100%; height:auto;">
-
-<div style="text-align: justify; margin-bottom: 20px;">
-In addition, we used simulations and the aforementioned apparatus to examine the difference in microscopic motion during fracture of single polymer networks and of tougher interpenetrated (double) polymer networks. Pictured below is a render of a three dimensional molecular dynamics simulation of a fracturing double network polymer. We used a combination of simulations and light scattering to explore the microscopic origin of toughness of multiple polymer networks. The left and right show one snapshot with one network removed on the right to reveal the underlying damaged second network. The kind of speckle images that we use to experimentally characterise microscopic motion are shown in the top right background.
-
-<br><br>
-Read more on PNAS here:
-<br><br>
-https://doi.org/10.1073/pnas.2530175123
-<br><br>
-or on Arxiv here: 
-<br><br>
-https://doi.org/10.48550/arXiv.2512.02963
-<br><br>
-</div>
-<img src="Images/PNAS_Cover_ORR_1Half.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
-
-[Back to Home](index.md)
