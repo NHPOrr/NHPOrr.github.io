@@ -61,7 +61,7 @@ https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00865d
 <div style="text-align: justify; margin-bottom: 20px;">
 In addition, we used simulations and the aforementioned apparatus to examine the difference in microscopic motion during fracture of single polymer networks and of tougher interpenetrated (double) polymer networks. Pictured below is a render of a three dimensional molecular dynamics simulation of a fracturing double network polymer. We used a combination of simulations and light scattering to explore the microscopic origin of toughness of multiple polymer networks. The left and right show one snapshot with one network removed on the right to reveal the underlying damaged second network. The kind of speckle images that we use to experimentally characterise microscopic motion are shown in the top right background.
 </div>
-
+<br><br>
 <img src="Images/PNAS_Cover_ORR_1Half.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
 
 [Back to Home](index.md)
