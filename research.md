@@ -71,7 +71,6 @@ or on Arxiv here:
 https://doi.org/10.48550/arXiv.2512.02963
 <br><br>
 </div>
-<br><br>
 <img src="Images/PNAS_Cover_ORR_1Half.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
 
 [Back to Home](index.md)
