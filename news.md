@@ -14,7 +14,7 @@ Find the article at PNAS here: https://lnkd.in/epXtgTSs
 
 2025 / 03 / 04. My postdoc project at ENS Paris was selected for an Etudient Entrepreneur degree as part of PSL Pépite. Recently, I graduated from this course! Thanks to this course, I deepened my understanding of the interaction between markets and emerging science. Thanks to everyone at PSL Pépite.
 
-<img src="Images/1773137104652.jpg" alt="1773137104652.jpg" style="max-width:100%; height:auto;">
+<img src="Images/1773137104652.jpeg" alt="1773137104652.jpeg" style="max-width:100%; height:auto;">
 
 [Back to Home](index.md)
 
