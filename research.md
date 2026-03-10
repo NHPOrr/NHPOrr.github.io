@@ -63,6 +63,6 @@ In addition, we used simulations and the aforementioned apparatus to examine the
 
 </div>
 
-<img src="Images/SoftMatterFrontCover.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
+<img src="Images/PNAS_Cover_ORR_1Half.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
 
 [Back to Home](index.md)
