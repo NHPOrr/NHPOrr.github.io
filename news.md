@@ -6,7 +6,7 @@
 
 Find the article at PNAS here: https://lnkd.in/epXtgTSs
 
-<img src="Images/Screenshot 2026-03-07 at 19.58.54.png" alt="SoftMatter" style="max-width:100%; height:auto;">
+<img src="Images/PNAS_Cover_ORR_1.jpg" alt="PNAS_Cover_ORR_1Half.jpg" style="max-width:100%; height:auto;">
 
 [Back to Home](index.md)
 
